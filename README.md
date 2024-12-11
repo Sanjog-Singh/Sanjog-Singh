@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sanjog-Singh.
+- 👀 I’m interested in Machine Learning, Data Science and Python Development.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Machine Learning Projects.
+- 📫 You can reach me through my LinkedIn Profile, which you can find on my GitHub Profile.
